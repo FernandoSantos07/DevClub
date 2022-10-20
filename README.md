@@ -5,8 +5,8 @@
   
   <h2>Tecnologias utilizadas</h2>
   <br>
-  -HTML
-  -CSS
-  -JavaScript
+  <p>-HTML</p>
+  <p>-CSS</p>
+  <p>-JavaScript</p>
   
 <img src="https://github.com/FernandoSantos07/PS5-Dualshock/blob/master/Captura%20da%20Web1.jpeg?raw=true" />
